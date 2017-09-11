@@ -1,0 +1,7 @@
+frmBackColor:=Color.FromArgb(32, 31, 33);
+menuBackColor:=Color.FromArgb(55, 11, 104);
+menuDropDownBackColor:=Color.FromArgb(55, 11, 104);
+
+frmForeColor:=Color.White;
+menuForeColor:=Color.White;
+menuDropDownForeColor:=Color.White;

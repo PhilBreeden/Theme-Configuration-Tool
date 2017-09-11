@@ -1,0 +1,7 @@
+frmBackColor:=Color.FromKnownColor(KnownColor.Control);
+menuBackColor:=Color.FromKnownColor(KnownColor.Control);
+menuDropDownBackColor:=Color.FromKnownColor(KnownColor.Control);
+
+frmForeColor:=Color.FromKnownColor(KnownColor.ControlText);
+menuForeColor:=Color.FromKnownColor(KnownColor.ControlText);
+menuDropDownForeColor:=Color.FromKnownColor(KnownColor.ControlText);
